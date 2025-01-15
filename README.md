@@ -1,50 +1,71 @@
-# Welcome to your Expo app 👋
+# Gerenciador de Tarefas Diárias
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Um aplicativo móvel moderno para gerenciamento de tarefas diárias, desenvolvido com React Native e Expo.
 
-## Get started
+## 🚀 Funcionalidades
 
-1. Install dependencies
+- ✅ Gerenciamento completo de tarefas
+- 🎨 Interface moderna e intuitiva
+- 🌙 Suporte a tema claro/escuro
+- 📅 Organização por dias da semana
+- 🔍 Filtros por status (pendente/concluído)
+- 🎯 Sistema de prioridades
+- 🔐 Autenticação de usuários
 
-   ```bash
-   npm install
-   ```
+## 🛠️ Tecnologias
 
-2. Start the app
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Expo Router](https://expo.github.io/router/docs)
 
-   ```bash
-    npx expo start
-   ```
+## 📱 Telas
 
-In the output, you'll find options to open the app in a
+- **Login**: Autenticação segura de usuários
+- **Home**: Visualização e gerenciamento de tarefas
+- **Nova Tarefa**: Interface intuitiva para criação de tarefas
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+## 🚦 Como Começar
 
 ```bash
-npm run reset-project
+# Clonar o repositório
+git clone https://github.com/Samuca291/Aplicativo-Tarefa.git
+
+# Instalar dependências
+cd Aplicativo-Tarefa
+npm install
+
+# Iniciar o projeto
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 📝 Uso
 
-## Learn more
+1. Faça login com as credenciais:
+   - Email: admin@gmail.com
+   - Senha: admin123
 
-To learn more about developing your project with Expo, look at the following resources:
+2. Na tela principal você pode:
+   - Visualizar tarefas por dia
+   - Filtrar por status
+   - Adicionar novas tarefas
+   - Marcar tarefas como concluídas
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 🤝 Contribuição
 
-## Join the community
+1. Faça um Fork do projeto
+2. Crie uma Branch para sua Feature (`git checkout -b feature/AmazingFeature`)
+3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
+4. Push para a Branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
 
-Join our community of developers creating universal apps.
+## 📄 Licença
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 👨‍💻 Autor
+
+Samuel Toledo Pimenta - [GitHub](https://github.com/Samuca291)
+
+---
+⌨️ com ❤️ por [Samuel Toledo Pimenta](https://github.com/Samuca291)
